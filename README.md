@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<enter your URL here>
+https://deploy-this-repo-brandy-nguyen2-toe3-d2qy6mvas.vercel.app/
 
 
